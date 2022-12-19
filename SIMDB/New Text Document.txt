@@ -1,0 +1,9 @@
+npm i react-responsive-carousel
+
+
+=======================
+
+npm i react-loading-skeleton
+
+
+======================
